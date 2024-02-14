@@ -1,5 +1,22 @@
 # @graphql-mesh/serve-cli
 
+## 0.1.1
+
+### Patch Changes
+
+- [#6568](https://github.com/ardatan/graphql-mesh/pull/6568)
+  [`44d40ff`](https://github.com/ardatan/graphql-mesh/commit/44d40fff17877a52e63c6f644635ea53eb9deadb)
+  Thanks [@enisdenjo](https://github.com/enisdenjo)! - dependencies updates:
+  - Removed dependency
+    [`@graphql-mesh/fusion-runtime@^0.0.2` ↗︎](https://www.npmjs.com/package/@graphql-mesh/fusion-runtime/v/0.0.2)
+    (from `dependencies`)
+  - Removed dependency
+    [`@graphql-mesh/runtime@^0.97.6` ↗︎](https://www.npmjs.com/package/@graphql-mesh/runtime/v/0.97.6)
+    (from `dependencies`)
+- Updated dependencies
+  [[`44d40ff`](https://github.com/ardatan/graphql-mesh/commit/44d40fff17877a52e63c6f644635ea53eb9deadb)]:
+  - @graphql-mesh/serve-runtime@0.0.3
+
 ## 0.1.0
 
 ### Minor Changes
