@@ -1,5 +1,22 @@
 # @graphql-mesh/serve-runtime
 
+## 0.0.3
+
+### Patch Changes
+
+- [#6568](https://github.com/ardatan/graphql-mesh/pull/6568)
+  [`44d40ff`](https://github.com/ardatan/graphql-mesh/commit/44d40fff17877a52e63c6f644635ea53eb9deadb)
+  Thanks [@enisdenjo](https://github.com/enisdenjo)! - dependencies updates:
+  - Added dependency
+    [`@graphql-mesh/cross-helpers@^0.4.1` ↗︎](https://www.npmjs.com/package/@graphql-mesh/cross-helpers/v/0.4.1)
+    (to `dependencies`)
+  - Added dependency
+    [`@graphql-mesh/utils@^0.96.5` ↗︎](https://www.npmjs.com/package/@graphql-mesh/utils/v/0.96.5)
+    (to `dependencies`)
+- Updated dependencies
+  [[`44d40ff`](https://github.com/ardatan/graphql-mesh/commit/44d40fff17877a52e63c6f644635ea53eb9deadb)]:
+  - @graphql-mesh/fusion-runtime@0.0.3
+
 ## 0.0.2
 
 ### Patch Changes
